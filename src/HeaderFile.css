@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Langar&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Andika+New+Basic&display=swap');
+
+.headerfile {
+    background-color: #f27b48;
+}
+
+.myimg {
+    border-radius: 50%;
+    height: 150px;
+}
+
+.mename {
+    color: white; 
+    margin-top: 1px;
+    font-family: 'Langar', cursive;
+}
+
+.mename:hover {
+    color: #4f527e;
+    transition-duration: 0.3s;
+}
+
+.meranddescription {
+    color: white; 
+    margin-top: 1px;
+    font-family: 'Andika New Basic', sans-serif;
+
+}
+
+.github-button {
+    background-color: #4f527e;
+    color: white; 
+    width: 100px; 
+    height: 50px;
+    cursor: pointer;
+    font-size: 25px;
+    margin-top: 5px;
+
+}
+
+.github-button:hover {
+    background-color: #5E6194;
+    transition-duration: 0.3s;
+}
+
+.linkedin-button {
+    background-color: #4f527e;
+    color: white; 
+    width: 105px; 
+    height: 50px;
+    cursor: pointer;
+    font-size: 25px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+
+.linkedin-button:hover {
+    background-color: #5E6194;
+    transition-duration: 0.3s;
+
+}
