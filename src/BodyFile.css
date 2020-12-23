@@ -2,6 +2,14 @@
 
 .bodyfile {
     background-color: #f2f3f5;
+    margin-top: 5px;
+}
+
+.bodyfile:hover {
+    background-color: #4f527e;
+    transition-duration: 0.3s;
+    color: white; 
+
 }
 
 .randdescriptioner {

@@ -5,10 +5,6 @@
     background-color: #f27b48;
 }
 
-.headerfile:hover {
-    background-color: black;
-    transition-duration: 0.3s;
-}
 
 .myimg {
     border-radius: 50%;
