@@ -14,10 +14,6 @@
     margin-top: 20px;
     font-family: 'Andika New Basic', sans-serif;
     margin-bottom: 5px;
-}
-
-.satviksslackprojectbutton:hover {
-    border:none;
-    transition-duration: 0.3s;
+    border: none;
 }
 
