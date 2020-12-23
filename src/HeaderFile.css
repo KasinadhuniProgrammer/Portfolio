@@ -5,6 +5,11 @@
     background-color: #f27b48;
 }
 
+.headerfile:hover {
+    background-color: black;
+    transition-duration: 0.3s;
+}
+
 .myimg {
     border-radius: 50%;
     height: 150px;
@@ -36,6 +41,7 @@
     cursor: pointer;
     font-size: 25px;
     margin-top: 5px;
+    place-items: center;
 
 }
 
@@ -53,6 +59,7 @@
     font-size: 25px;
     margin-top: 5px;
     margin-bottom: 5px;
+    place-items: center;
 
 }
 
