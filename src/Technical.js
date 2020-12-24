@@ -6,7 +6,7 @@ function Technical() {
         <div className="technical">
             <center><h1>Technical Skills 💻</h1></center>
             <center>
-                <h3>React.js, Node.js, Firebase, Docker, Git, JavaScript, C++, Python, Java</h3>
+                <h3>React.js, Firebase, Git, JavaScript, C++, Python, Java</h3>
             </center>
         </div>
     );
