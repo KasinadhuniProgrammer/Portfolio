@@ -27,13 +27,6 @@ function ProjectsFiles() {
                         <center><h3>This project is still in progress, it is being developed with React.js and Firebase.</h3></center>
                     </button></center>
                 </div>
-                <div className="studentlists__container">
-                    <center><button className="studentlistsprojbutton"onClick={() => {openInNewTab("https://github.com/KasinadhuniProgrammer/StudentList")}}>
-                        <center><img src={anotherrandomstudentlistimg}/></center>
-                        <center><h1>StudentList</h1></center>
-                        <center><h3>This project is still in progress, it is being developed with React.js and Firebase.</h3></center>
-                    </button></center>
-                </div>
             </div>
             
         </div>
