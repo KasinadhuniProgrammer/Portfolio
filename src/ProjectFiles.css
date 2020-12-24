@@ -7,10 +7,6 @@
     font-family: 'Andika New Basic', sans-serif;
 }
 
-.projectfiles:hover {
-    background-color: #f27b48;
-    transition-duration: 0.3s;
-}
 
 .projectheaderthing {
     font-family: 'Andika New Basic', sans-serif;
@@ -21,17 +17,64 @@
 }
 
 .satviksslackprojectbutton {
-    background-color: #f8f8f8;
+    background-color: #4f527e;
     cursor:pointer;
     margin-top: 20px;
     font-family: 'Andika New Basic', sans-serif;
     margin-bottom: 5px;
     border: none;
+    color: white;
 }
 
 .satviksslackprojectbutton:hover {
     background-color: #EAEAEA;
+    color: black;
     transition-duration: 0.3s;
 
 }
+
+.mechlevelsproject__container {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+
+}
+
+.mechlevelsprojbutton {
+    background-color: #4f527e;
+    cursor:pointer;
+    margin-top: 20px;
+    font-family: 'Andika New Basic', sans-serif;
+    margin-bottom: 5px;
+    border: none;
+    color: white;
+}
+
+.mechlevelsprojbutton:hover {
+    background-color: #EAEAEA;
+    color: black;
+    transition-duration: 0.3s;
+
+}
+
+.studentlists__container {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+
+}
+
+.studentlistsprojbutton {
+    background-color: #4f527e;
+    cursor:pointer;
+    margin-top: 20px;
+    font-family: 'Andika New Basic', sans-serif;
+    margin-bottom: 5px;
+    border: none;
+    color: white;
+
+}
+
+.studentlistsprojbutton:hover {
+    background-color: #EAEAEA;
+    color: black;
+    transition-duration: 0.3s;
+}
+
 

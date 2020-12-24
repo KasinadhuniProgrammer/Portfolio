@@ -5,6 +5,7 @@ import BodyFile from './BodyFile';
 import ProjectsFile from './ProjectsFile';
 import Extracurriculars from './Extracurriculars';
 import Technical from './Technical';
+import RandomFacts from './RandomFacts';
 import './App.css';
 
 function App() {
@@ -12,9 +13,9 @@ function App() {
     <div className="app">
       <HeaderFile />
       <BodyFile />
-      <ProjectsFile />
       <Extracurriculars />
-      <Technical />
+      <ProjectsFile />
+      <RandomFacts />
     </div>
   );
 }

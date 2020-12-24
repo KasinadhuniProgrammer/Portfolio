@@ -1,5 +1,7 @@
 import React from 'react'; 
 import './ProjectFiles.css'; 
+import studentlistrandomimg from './studentlistrandomimg.png';
+import anotherrandomstudentlistimg from './anotherrandomstudentlistimg.png';
 
 function ProjectsFiles() {
     const openInNewTab = (url) => {
@@ -11,7 +13,7 @@ function ProjectsFiles() {
     return (
         <div className="projectfiles">
             <div className="projectfiles__satviksslackproj">
-                <center><h1 className="projectheaderthing">My Best Project as of Now 🖥️</h1></center>
+                <center><h1 className="projectheaderthing">Projects 🖥️</h1></center>
                 <div className="satviksslackproject__container">
                     <center><button onClick={() => {openInNewTab("https://devpost.com/software/satviks-slack")}} className="satviksslackprojectbutton">
                         <center><img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/317/785/datas/medium.png" alt=""/></center>
@@ -19,7 +21,21 @@ function ProjectsFiles() {
                         <center><h3>My own version of Slack! I developed this with React.js and Firebase. Click here to be directed to its devpost!</h3></center>
                     </button></center>
                 </div>
+                <div className="mechlevelsproject__container">
+                    <center><button onClick={() => {openInNewTab("https://github.com/KasinadhuniProgrammer/MechLevels")}}className="mechlevelsprojbutton">
+                        <center><h1>MechLevels</h1></center>
+                        <center><h3>This project is still in progress, it is being developed with React.js and Firebase.</h3></center>
+                    </button></center>
+                </div>
+                <div className="studentlists__container">
+                    <center><button className="studentlistsprojbutton"onClick={() => {openInNewTab("https://github.com/KasinadhuniProgrammer/StudentList")}}>
+                        <center><img src={anotherrandomstudentlistimg}/></center>
+                        <center><h1>StudentList</h1></center>
+                        <center><h3>This project is still in progress, it is being developed with React.js and Firebase.</h3></center>
+                    </button></center>
+                </div>
             </div>
+            
         </div>
     );
 
