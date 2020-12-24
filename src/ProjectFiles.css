@@ -1,5 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Andika+New+Basic&display=swap');
 
+.projectfiles {
+    background-color: #4f527e;
+    color: white;
+    margin-top: 5px;
+    font-family: 'Andika New Basic', sans-serif;
+}
+
+.projectfiles:hover {
+    background-color: #f27b48;
+    transition-duration: 0.3s;
+}
+
 .projectheaderthing {
     font-family: 'Andika New Basic', sans-serif;
 }

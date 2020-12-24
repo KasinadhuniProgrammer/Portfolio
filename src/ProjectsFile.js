@@ -11,7 +11,7 @@ function ProjectsFiles() {
     return (
         <div className="projectfiles">
             <div className="projectfiles__satviksslackproj">
-                <center><h1 className="projectheaderthing">My Projects</h1></center>
+                <center><h1 className="projectheaderthing">My Best Project as of Now 🖥️</h1></center>
                 <div className="satviksslackproject__container">
                     <center><button onClick={() => {openInNewTab("https://devpost.com/software/satviks-slack")}} className="satviksslackprojectbutton">
                         <center><img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/317/785/datas/medium.png" alt=""/></center>

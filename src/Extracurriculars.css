@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Andika+New+Basic&display=swap');
+
+.extracurriculars {
+    background-color: #f27b48;
+    color: white;
+    margin-top: 5px;
+    font-family: 'Andika New Basic', sans-serif;
+}
+
+.extracurriculars:hover {
+    background-color: #4f527e;
+    transition-duration: 0.3s;
+}
