@@ -16,7 +16,7 @@ function HeaderFile() {
         <div className="headerfile">
             <center><h3 className="headerfile__title">Satvik Kasinadhuni</h3></center>
             <a className="class-github-button" onClick={() => {openInNewTab("https://github.com/KasinadhuniProgrammer")}}>GitHub</a>
-            <a className="linkedin-button">Linkedin</a>
+            <a className="linkedin-button" onClick={() => {openInNewTab("https://www.linkedin.com/in/satvik-kasinadhuni")}}>Linkedin</a>
 
 
         </div>
