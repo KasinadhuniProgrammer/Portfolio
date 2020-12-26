@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Andika+New+Basic&display=swap');
 
 .headerfile {
-    background-color: #f27b48;
+    background-color: #000000;
     color: white;
     font-family: 'Andika New Basic', sans-serif;
     display: flex;
@@ -20,7 +20,7 @@
 .class-github-button {
     cursor: pointer;
     color: white;
-    background-color: #f27b48;
+    background-color:#000000;
     font-size: 20px;
 }
 
@@ -32,7 +32,7 @@
 .linkedin-button {
     cursor: pointer;
     color: white;
-    background-color: #f27b48;
+    background-color: #000000;
     font-size: 20px;
 
 }
