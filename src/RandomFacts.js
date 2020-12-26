@@ -4,12 +4,17 @@ import './RandomFacts.css';
 function RandomFacts() {
     return (
         <div className="randomfacts">
-            <center><h1>Random Facts about Me</h1></center>
-            <center><h3>Favorite Programming Language: JavaScript 🧑‍💻</h3></center>
-            <center><h3>Dream Job: Software Engineer at Microsoft 🧑‍💼</h3></center>
-            <center><h3>Favorite Sport: Cricket 🏏</h3></center>
-            <center><h3>Favorite Country: India 🇮🇳</h3></center>
-            <center><h3>Favorite Food: Naan and Paneer 🍛</h3></center>
+            <center><h1>Work Experience 🧑‍💼</h1></center>
+            <div className="istartvalleyone">
+                <center><h2>iStart Valley</h2></center>
+                <center><h3>High School Intern</h3></center>
+                <center><h4>JUNE 2020 - NOVEMBER 2020</h4></center>
+            </div>
+            <div className="trumpfone">
+                <center><h2>TRUMPF</h2></center>
+                <center><h3>Production Engineering Extern</h3></center>
+                <center><h4>FEBRUARY 2020</h4></center>
+            </div>
 
         </div>
     );

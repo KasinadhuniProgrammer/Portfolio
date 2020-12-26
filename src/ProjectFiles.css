@@ -1,80 +1,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Andika+New+Basic&display=swap');
 
 .projectfiles {
-    background-color: #4f527e;
-    color: white;
     margin-top: 5px;
     font-family: 'Andika New Basic', sans-serif;
 }
 
-
-.projectheaderthing {
-    font-family: 'Andika New Basic', sans-serif;
+.satviksslackprojectthing {
+    display: grid;
+    place-items: center;
 }
 
-.satviksslackproject__container {
+.satviksslackprojectthing__container {
+    padding: 100px; 
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
 }
 
-.satviksslackprojectbutton {
-    background-color: #4f527e;
-    cursor:pointer;
-    margin-top: 20px;
-    font-family: 'Andika New Basic', sans-serif;
-    margin-bottom: 5px;
-    border: none;
+.satviksslackprojectthing__container:hover {
+    background-color: #f27b48;
     color: white;
+    transition-duration: 0.5s;
 }
-
-.satviksslackprojectbutton:hover {
-    background-color: #EAEAEA;
-    color: black;
-    transition-duration: 0.3s;
-
-}
-
-.mechlevelsproject__container {
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
-
-}
-
-.mechlevelsprojbutton {
-    background-color: #4f527e;
-    cursor:pointer;
-    margin-top: 20px;
-    font-family: 'Andika New Basic', sans-serif;
-    margin-bottom: 5px;
-    border: none;
-    color: white;
-}
-
-.mechlevelsprojbutton:hover {
-    background-color: #EAEAEA;
-    color: black;
-    transition-duration: 0.3s;
-
-}
-
-.studentlists__container {
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
-
-}
-
-.studentlistsprojbutton {
-    background-color: #4f527e;
-    cursor:pointer;
-    margin-top: 20px;
-    font-family: 'Andika New Basic', sans-serif;
-    margin-bottom: 5px;
-    border: none;
-    color: white;
-
-}
-
-.studentlistsprojbutton:hover {
-    background-color: #EAEAEA;
-    color: black;
-    transition-duration: 0.3s;
-}
-
-

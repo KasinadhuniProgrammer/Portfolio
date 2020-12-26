@@ -4,8 +4,8 @@ import HeaderFile from './HeaderFile';
 import BodyFile from './BodyFile';
 import ProjectsFile from './ProjectsFile';
 import Extracurriculars from './Extracurriculars';
-import Technical from './Technical';
 import RandomFacts from './RandomFacts';
+import Blog from './Blog';
 import './App.css';
 
 function App() {
@@ -14,8 +14,9 @@ function App() {
       <HeaderFile />
       <BodyFile />
       <Extracurriculars />
-      <ProjectsFile />
       <RandomFacts />
+      <ProjectsFile />
+      <Blog />
     </div>
   );
 }

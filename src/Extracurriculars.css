@@ -1,8 +1,31 @@
 @import url('https://fonts.googleapis.com/css2?family=Andika+New+Basic&display=swap');
 
 .extracurriculars {
-    background-color: #f27b48;
-    color: white;
+
     margin-top: 5px;
     font-family: 'Andika New Basic', sans-serif;
+}
+
+.extracurriculars__highschool {
+    margin-top: 5px;
+    background-color: #5DFD5E;
+}
+
+.extracurriculars__highschool:hover {
+    background-color: white;
+    color: black;
+    transition-duration: 0.5s;
+}
+
+.extracurriculars__middleschool {
+    margin-top: 5px;
+    background-color: #0E8BD8;
+
+}
+
+.extracurriculars__middleschool:hover {
+    background-color: white;
+    color: black;
+    transition-duration: 0.5s;
+
 }
