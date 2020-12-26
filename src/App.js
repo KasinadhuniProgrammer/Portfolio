@@ -6,17 +6,33 @@ import ProjectsFile from './ProjectsFile';
 import Extracurriculars from './Extracurriculars';
 import RandomFacts from './RandomFacts';
 import Blog from './Blog';
+import Connect from './Connect';
 import './App.css';
+import { useStateValue } from './StateProvider';
+import Login from './Login';
 
 function App() {
+  const [{ user } , dispatch] = useStateValue(); 
   return (
     <div className="app">
-      <HeaderFile />
-      <BodyFile />
-      <Extracurriculars />
-      <RandomFacts />
-      <ProjectsFile />
-      <Blog />
+      <Router>
+        {!user ? (
+          <Login />
+
+        ): (
+          <>
+            <HeaderFile />
+            <BodyFile />
+            <Extracurriculars />
+            <RandomFacts />
+            <ProjectsFile />
+            <Connect />
+            <Blog />
+          </>
+
+        )}
+      </Router>
+      
     </div>
   );
 }

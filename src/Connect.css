@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Andika+New+Basic&display=swap');
+
+.connect {
+    margin-top: 5px;
+    background-color: black;
+    color: white;
+    font-family: 'Andika New Basic', sans-serif;
+}
+
+.connect:hover {
+    background-color: white;
+    color: black;
+    transition: 0.5s;
+}
