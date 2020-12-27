@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.47078897.chunk.css",
-    "main.js": "/Portfolio/static/js/main.94cb0b86.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.94cb0b86.chunk.js.map",
-    "runtime-main.js": "/Portfolio/static/js/runtime-main.eeedd0b7.js",
-    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.eeedd0b7.js.map",
-    "static/js/2.3154aaf7.chunk.js": "/Portfolio/static/js/2.3154aaf7.chunk.js",
-    "static/js/2.3154aaf7.chunk.js.map": "/Portfolio/static/js/2.3154aaf7.chunk.js.map",
-    "static/js/3.3b5fe689.chunk.js": "/Portfolio/static/js/3.3b5fe689.chunk.js",
-    "static/js/3.3b5fe689.chunk.js.map": "/Portfolio/static/js/3.3b5fe689.chunk.js.map",
+    "main.css": "/Portfolio/static/css/main.0e7b6d51.chunk.css",
+    "main.js": "/Portfolio/static/js/main.5b5af7b5.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.5b5af7b5.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.a09efb6c.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.a09efb6c.js.map",
+    "static/js/2.ca243b49.chunk.js": "/Portfolio/static/js/2.ca243b49.chunk.js",
+    "static/js/2.ca243b49.chunk.js.map": "/Portfolio/static/js/2.ca243b49.chunk.js.map",
+    "static/js/3.f47c48b8.chunk.js": "/Portfolio/static/js/3.f47c48b8.chunk.js",
+    "static/js/3.f47c48b8.chunk.js.map": "/Portfolio/static/js/3.f47c48b8.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "static/css/main.47078897.chunk.css.map": "/Portfolio/static/css/main.47078897.chunk.css.map",
-    "static/js/2.3154aaf7.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.3154aaf7.chunk.js.LICENSE.txt",
+    "static/css/main.0e7b6d51.chunk.css.map": "/Portfolio/static/css/main.0e7b6d51.chunk.css.map",
+    "static/js/2.ca243b49.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.ca243b49.chunk.js.LICENSE.txt",
     "static/media/FRESHMANYEARFIRSTIMAGE.18b6579e.jpg": "/Portfolio/static/media/FRESHMANYEARFIRSTIMAGE.18b6579e.jpg",
     "static/media/anotherrandomstudentlistimg.ca3b3278.png": "/Portfolio/static/media/anotherrandomstudentlistimg.ca3b3278.png",
     "static/media/studentlistrandomimg.67ff32e3.png": "/Portfolio/static/media/studentlistrandomimg.67ff32e3.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.eeedd0b7.js",
-    "static/js/2.3154aaf7.chunk.js",
-    "static/css/main.47078897.chunk.css",
-    "static/js/main.94cb0b86.chunk.js"
+    "static/js/runtime-main.a09efb6c.js",
+    "static/js/2.ca243b49.chunk.js",
+    "static/css/main.0e7b6d51.chunk.css",
+    "static/js/main.5b5af7b5.chunk.js"
   ]
 }
