@@ -10,28 +10,22 @@ import Connect from './Connect';
 import './App.css';
 import { useStateValue } from './StateProvider';
 import Login from './Login';
+import WelcomeFile from './WelcomeFile';
 
 function App() {
   const [{ user } , dispatch] = useStateValue(); 
   return (
     <div className="app">
-      <Router>
-        {!user ? (
-          <Login />
-
-        ): (
-          <>
             <HeaderFile />
+            <WelcomeFile />
             <BodyFile />
             <Extracurriculars />
             <RandomFacts />
             <ProjectsFile />
             <Connect />
             <Blog />
-          </>
 
-        )}
-      </Router>
+  
       
     </div>
   );

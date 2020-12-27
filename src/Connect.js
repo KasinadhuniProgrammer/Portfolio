@@ -1,13 +1,14 @@
 import React from 'react';
-import FRESHMANYEARFIRSTIMAGE  from './FRESHMANYEARFIRSTIMAGE.jpg';
 import './Connect.css';
 
 function Connect() {
     return (
         <div className="connect">
-            <center><img src={FRESHMANYEARFIRSTIMAGE}/></center>
-            <center><h2>Get in touch with me!</h2></center>
-            <center><h3>Email: skasinad@gmail.com</h3></center>
+            <center><h1 className="connecttitle">Skills</h1></center>
+            <center><h3 className="frontendtitleskills">Frontend: React.js, HTML, CSS, JavaScript</h3></center>
+            <center><h3 className="backendtitleskills">Backend: Firebase, SQL, Python, Java, C++</h3></center>
+            <center><h3 className="designtitleskills">Design: Figma, Autodesk Inventor</h3></center>
+            
 
         </div>
     );
