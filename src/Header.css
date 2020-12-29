@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+.header {
+    background-color: #02203c;
+    color: #00F97C;
+    font-family: 'Poppins', sans-serif;
+}
+
+.header__imageh {
+    border-radius: 50%;
+    margin-top: 5px;
+}
+
+.header__nameh {
+    font-size: 55px;
+}
+
+.header__desch {
+    font-size: 35px;
+}
+
+.header__github-icon {
+    cursor: pointer;
+    margin-left: 5px;
+}
+
+.header__linkedin-icon {
+    cursor: pointer;
+    margin-left: 55px;
+}
+
+.header__twitter-icon {
+    cursor: pointer;
+    margin-left: 55px;
+    height: 55px;
+}
