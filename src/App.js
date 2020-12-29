@@ -9,12 +9,14 @@ import WorkExperience from './WorkExperience';
 import Technical from './Technical';
 import Skills from './Skills';
 import Projects from './Projects';
+import Welcome from './Welcome';
 
 function App() {
   return (
     <div className="app">
       <Header />
       <About />
+      <Welcome />
       <Education />
       <WorkExperience />
       <Skills />
