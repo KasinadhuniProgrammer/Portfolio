@@ -5,9 +5,8 @@ function Skills() {
     return (
         <div className="skills">
             <center><h1>Technical Skills</h1></center>
-            <center><h3>Frontend: React.js, HTML, CSS, JavaScript</h3></center>
-            <center><h3>Backend: Firebase, Python, Java, C++, SQL</h3></center>
-            <center><h3>Design: Figma, Autodesk Inventor</h3></center>
+            <center><h3>Proficient: React.js, JavaScript, Java, Git, Firebase, Object-Oriented Programming, Algorithms and Data Structures</h3></center>
+            <center><h3>Familiar: C++, C#, Python, Figma, Autodesk Inventor, TensorFlow.js</h3></center>
 
         </div>
     );
