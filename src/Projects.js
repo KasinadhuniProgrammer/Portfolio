@@ -10,12 +10,12 @@ function Projects() {
                 <h4>My own version of Slack, developed with React.js and Firebase</h4>
             </div>
             <div className="mechlevelscontainer">
-                <h3>MechLevels(in-progress)</h3>
-                <h4>A website that shows Mechanical Engineers compensations from top companies</h4>
+                <h3>MechLevels</h3>
+                <h4>A website that shows Mechanical Engineers compensations from top companies, developed with React.js and Firebase.</h4>
             </div>
             <div className="studentlistcontainer">
-                <h3>StudentList(in-progress)</h3>
-                <h4>A website for high school students to find internships and research opportunities</h4>
+                <h3>Resumer(in-progress)</h3>
+                <h4>A platform where people can scan their resume on this platform, and the platform will give them interview questions for them to prepare, being developed with React.js, Firebase, and TensorFlow.js.</h4>
             </div>
 
         </div>
