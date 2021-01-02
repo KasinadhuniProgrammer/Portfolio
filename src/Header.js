@@ -17,53 +17,10 @@ function Header() {
     }
 
     const AnimatedTypingComponent = () => (
-        <Typing>
-          <span>I am currently a High School Sophomore</span>
+        <Typing loop={true} speed={20}>
+          <span>High School Sophomore | Software Developer | React.js Enthusiast</span>
           <Typing.Delay ms={1000} />
-          <Typing.Backspace count={38} />
-          <span>I am a Software Developer</span>
-          <Typing.Delay ms={1000} />
-          <Typing.Backspace count={25} />
-          <span>I am a React.js Enthusiast</span>
-          <Typing.Delay ms={1000} />
-          <Typing.Backspace count={26} />
-          <span>I am currently a High School Sophomore</span>
-          <Typing.Delay ms={1000} />
-          <Typing.Backspace count={38} />
-          <span>I am a Software Developer</span>
-          <Typing.Delay ms={1000} />
-          <Typing.Backspace count={25} />
-          <span>I am a React.js Enthusiast</span>
-          <Typing.Delay ms={1000} />
-          <Typing.Backspace count={26} />
-          <span>I am currently a High School Sophomore</span>
-          <Typing.Delay ms={1000} />
-          <Typing.Backspace count={38} />
-          <span>I am a Software Developer</span>
-          <Typing.Delay ms={1000} />
-          <Typing.Backspace count={25} />
-          <span>I am a React.js Enthusiast</span>
-          <Typing.Delay ms={1000} />
-          <Typing.Backspace count={26} />
-          <span>I am currently a High School Sophomore</span>
-          <Typing.Delay ms={1000} />
-          <Typing.Backspace count={38} />
-          <span>I am a Software Developer</span>
-          <Typing.Delay ms={1000} />
-          <Typing.Backspace count={25} />
-          <span>I am a React.js Enthusiast</span>
-          <Typing.Delay ms={1000} />
-          <Typing.Backspace count={26} />
-          <span>I am currently a High School Sophomore</span>
-          <Typing.Delay ms={1000} />
-          <Typing.Backspace count={38} />
-          <span>I am a Software Developer</span>
-          <Typing.Delay ms={1000} />
-          <Typing.Backspace count={25} />
-          <span>I am a React.js Enthusiast</span>
-          <Typing.Delay ms={1000} />
-          <Typing.Backspace count={26} />
-          <span>skasinad@gmail.com</span>
+          <Typing.Backspace count={64} speed={2}/>
 
 
         </Typing>
