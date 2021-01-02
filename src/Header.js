@@ -45,7 +45,26 @@ function Header() {
           <span>I am a React.js Enthusiast</span>
           <Typing.Delay ms={1000} />
           <Typing.Backspace count={26} />
+          <span>I am currently a High School Sophomore</span>
+          <Typing.Delay ms={1000} />
+          <Typing.Backspace count={38} />
+          <span>I am a Software Developer</span>
+          <Typing.Delay ms={1000} />
+          <Typing.Backspace count={25} />
+          <span>I am a React.js Enthusiast</span>
+          <Typing.Delay ms={1000} />
+          <Typing.Backspace count={26} />
+          <span>I am currently a High School Sophomore</span>
+          <Typing.Delay ms={1000} />
+          <Typing.Backspace count={38} />
+          <span>I am a Software Developer</span>
+          <Typing.Delay ms={1000} />
+          <Typing.Backspace count={25} />
+          <span>I am a React.js Enthusiast</span>
+          <Typing.Delay ms={1000} />
+          <Typing.Backspace count={26} />
           <span>skasinad@gmail.com</span>
+
 
         </Typing>
       );
