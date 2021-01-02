@@ -17,7 +17,7 @@ function Header() {
     }
 
     const AnimatedTypingComponent = () => (
-        <Typing loop={true} speed={20}>
+        <Typing loop={true} speed={25}>
           <span>I am a High Schooler</span>
           <Typing.Delay ms={1000} />
           <Typing.Backspace count={64} speed={2}/>
