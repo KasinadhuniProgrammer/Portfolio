@@ -13,6 +13,7 @@ function Welcome() {
             <center><h3>I then started to learn more about Python, and I developed applications with things such as Turtle and Tkinter. I started to find a spark in myself when I was programming. Programming soon started to become a passion of mine.</h3></center>
             <center><h3>Since then, I have been programming a lot, I am part of a robotics team and I code in Java over there for the autonomous programs of the robot. I even picked up Full Stack Development and learned things such as ReactJS and Firebase, and built cool full stack projects.</h3></center>
             <center><h3>Now, I am currently programming way more and I am constantly learning new things, to become the best programmer I can be!</h3></center>
+            <center><h3>I have a huge interest in Cyber security, and Full Stack Development! I am an aspiring Ethical Hacker</h3></center>
 
         </div>
     );
