@@ -11,8 +11,9 @@
     margin-top: 5px;
 }
 
-.header__nameh {
-    font-size: 55px;
+
+.header__nameh:hover {
+    transition-duration: 0.5s;
 }
 
 .header__desch {

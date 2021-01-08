@@ -21,13 +21,13 @@ function Header() {
           <span>I am Satvik</span>
           <Typing.Delay ms={1000} />
           <Typing.Backspace count={64} speed={5}/>
-          <span>I love Web Development</span>
+          <span>I am a Software Developer</span>
           <Typing.Delay ms={1000} />
           <Typing.Backspace count={64} speed={5}/>
           <span>I am a High School Student</span>
           <Typing.Delay ms={1000} />
           <Typing.Backspace count={64} speed={5}/>
-          <span>I love Cyber Security</span>
+          <span>I love JavaScript</span>
           <Typing.Delay ms={1000} />
           <Typing.Backspace count={64} speed={5}/>
           <span>Welcome to my portfolio!</span>
