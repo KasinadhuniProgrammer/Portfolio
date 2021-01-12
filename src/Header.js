@@ -27,7 +27,7 @@ function Header() {
           <span>I am a Software Developer</span>
           <Typing.Delay ms={1000} />
           <Typing.Backspace count={64} speed={5}/>
-          <span>I love Web Development</span>
+          <span>I love problem solving</span>
           <Typing.Delay ms={1000} />
           <Typing.Backspace count={64} speed={5}/>
           <span>I am from the United States</span>
