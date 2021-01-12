@@ -8,6 +8,8 @@ import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import TwitterIcon from '@material-ui/icons/Twitter';
 import ReceiptIcon from '@material-ui/icons/Receipt';
 
+import Fade from 'react-reveal/Fade';
+
 function Header() {
 
 
@@ -44,7 +46,7 @@ function Header() {
     return (
         <div className="header">
             <center><img className="header__imageh" src={FRESHMANYEARFIRSTIMAGE}/></center>
-            <center><h1 className="header__nameh">Satvik Kasinadhuni</h1></center>
+            <center><h1 className="header__nameh"><Fade bottom>Satvik Kasinadhuni</Fade></h1></center>
             <center><h2><AnimatedTypingComponent /></h2></center>
             <GitHubIcon className="header__github-icon" onClick={() => {openInNewTab("https://github.com/KasinadhuniProgrammer")}}/>
             <LinkedInIcon className="header__linkedin-icon" onClick={() => {openInNewTab("https://www.linkedin.com/in/satvik-kasinadhuni")}}/>
