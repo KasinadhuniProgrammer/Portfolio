@@ -1,10 +1,23 @@
 import React from 'react';
 import './About.css';
 
+import Radium, {StyleRoot} from 'radium';
+import { bounce } from 'react-animations';
 
 
 function About() {
+
+    const styles = {
+        bounce: {
+          animation: 'x 1s',
+          animationName: Radium.keyframes(bounce, 'bounce'),
+          loop: true
+        }
+      }
+
+
     return ( 
+
         
  
         <div className="about">

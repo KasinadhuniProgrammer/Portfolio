@@ -7,10 +7,11 @@ import GitHubIcon from '@material-ui/icons/GitHub';
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import TwitterIcon from '@material-ui/icons/Twitter';
 import ReceiptIcon from '@material-ui/icons/Receipt';
-
 import Fade from 'react-reveal/Fade';
 
 function Header() {
+
+
 
 
     const openInNewTab = (url) => {
@@ -20,13 +21,13 @@ function Header() {
 
     const AnimatedTypingComponent = () => (
         <Typing loop={true}>
-          <span>I am a Software Developer</span>
-          <Typing.Delay ms={1000} />
-          <Typing.Backspace count={64} speed={5}/>
           <span>I am a High School Student</span>
           <Typing.Delay ms={1000} />
           <Typing.Backspace count={64} speed={5}/>
-          <span>I love Full Stack Development</span>
+          <span>I am a Software Developer</span>
+          <Typing.Delay ms={1000} />
+          <Typing.Backspace count={64} speed={5}/>
+          <span>I love Web Development</span>
           <Typing.Delay ms={1000} />
           <Typing.Backspace count={64} speed={5}/>
           <span>I am from the United States</span>
