@@ -6,3 +6,10 @@
     color: black;
     margin-top: 5px;
 }
+
+.welcome:hover {
+    color: #00F97C;
+    background-color: black;
+    transition-duration: 0.5s;
+
+}

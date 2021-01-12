@@ -45,7 +45,7 @@ function Header() {
 
     return (
         <div className="header">
-            <center><img className="header__imageh" src={FRESHMANYEARFIRSTIMAGE}/></center>
+            <center><Fade top><img className="header__imageh" src={FRESHMANYEARFIRSTIMAGE}/></Fade></center>
             <center><h1 className="header__nameh"><Fade bottom>Satvik Kasinadhuni</Fade></h1></center>
             <center><h2><AnimatedTypingComponent /></h2></center>
             <GitHubIcon className="header__github-icon" onClick={() => {openInNewTab("https://github.com/KasinadhuniProgrammer")}}/>
