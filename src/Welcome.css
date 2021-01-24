@@ -3,13 +3,7 @@
 .welcome {
     font-family: 'Andika New Basic', sans-serif;
     background-color: #00F97C;
+    background-image: linear-gradient(to top, #00944A 0%, #71F5B2 100%);
     color: black;
     margin-top: 5px;
-}
-
-.welcome:hover {
-    color: #00F97C;
-    background-color: black;
-    transition-duration: 0.5s;
-
 }
