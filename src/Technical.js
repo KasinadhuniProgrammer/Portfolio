@@ -24,7 +24,7 @@ function Technical() {
 
     return (
         <div className="technical">
-            <center><h1><NewAnimatedTypingComponent /></h1></center>
+            <center><h1>Thank you and best of luck!</h1></center>
 
             
         </div>
