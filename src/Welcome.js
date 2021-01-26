@@ -1,5 +1,6 @@
 import React from 'react';
 import './Welcome.css';
+import mecoding from './mecoding.jpg';
 
 
 function Welcome() {
@@ -8,10 +9,11 @@ function Welcome() {
     
     return(
         <div className="welcome">
-            <center><h1>Introduction 👋</h1></center>
-            <center><h3>I am Satvik, and I am a Sophomore at Farmington High School with a huge passion for Software Engineering.</h3></center>
-            <center><h3>I began getting into Software Engineering when I was 10, and I just continued to learn more about it. I mostly do a lot of Frontend using React.js, but I also have experience with Firebase, Python, Ethical Hacking, Linux, and Java.</h3></center>
-            <center><h3>After High School, I am interested to go to college and study Computer Science. Eventually I want to work for a company as a Software Engineer.</h3></center>
+            <center><h1>Hello | Namaskaram</h1></center>
+            <center><img className="mecodingimg"src={mecoding}/></center>
+            <center><h3>My name is Satvik. I'm a 15-year-old, Connecticut-born, Indian-American High School Student with a passion for Software Engineering. I am fluent in both English and Telugu(an Indian language spoken in the South of India, mainly in the Indian states Andhra Pradesh and Telangana).</h3></center>
+            <center><h3>I mainly do lots of Full Stack development with React.js and Firebase. But I also have experience with developing Tcl/Tk applications using Python, and operating Linux Systems.</h3></center>
+            <center><h3>When I am not programming, I am usually playing cricket, biking, or learning more about my Indian culture!</h3></center>
 
         </div>
     );

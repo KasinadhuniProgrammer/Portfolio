@@ -7,9 +7,9 @@ function Skills() {
     return (
         <div className="skills">
             <center><h1>Skills</h1></center>
-            <center><h3>Proficient: React.js, JavaScript, Python, Tkinter, Java, Git, Firebase, Object-Oriented Programming, Algorithms, Data Structures, Microsoft Excel, Microsoft Word, Microsoft PowerPoint</h3></center>
-            <center><h3>Familiar: C++, C#, Figma, Autodesk Inventor, TensorFlow.js, Linux</h3></center>
-            <center><h3>Novice: Django, Docker</h3></center>
+            <center><h2>Proficient: React.js, JavaScript, Python, Tkinter, Java, Git, Firebase</h2></center>
+            <center><h2>Familiar: C++, C#, Figma, Autodesk Inventor, TensorFlow.js, Linux</h2></center>
+            <center><h2>Novice: Django, Docker</h2></center>
 
         </div>
     );
