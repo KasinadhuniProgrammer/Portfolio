@@ -6,14 +6,12 @@ import Header from './Header';
 import Projects from './Projects';
 import Welcome from './Welcome';
 import Connect from './Connect';
-import Skillset from './Skillset';
 
 function App() {
   return (
     <div className="app">
       <Header />
       <Welcome />
-      <Skillset />
       <Projects />
       <Connect />
 
