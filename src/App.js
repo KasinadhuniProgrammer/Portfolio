@@ -5,7 +5,6 @@ import './App.css';
 import Header from './Header';
 import About from './About';
 import Technical from './Technical';
-import Skills from './Skills';
 import Projects from './Projects';
 import Welcome from './Welcome';
 
@@ -15,7 +14,6 @@ function App() {
       <Header />
       <About />
       <Welcome />
-      <Skills />
       <Projects />
       <Technical />
 
