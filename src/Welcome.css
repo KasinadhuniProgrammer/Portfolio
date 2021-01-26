@@ -6,10 +6,17 @@
     background-image: linear-gradient(to top, #00944A 0%, #71F5B2 100%);
     color: black;
     margin-top: 5px;
+    cursor: crosshair;
 }
+
 
 .mecodingimg {
     border-radius: 100%;
     margin-top: 5px;
 
+}
+
+.mecodingimg:hover {
+    border-radius: 5%;
+    transition-duration: 0.5s;
 }
