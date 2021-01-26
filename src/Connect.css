@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+.connect {
+    font-family: 'Poppins', sans-serif;
+    background-color: black;
+    color: white;
+}
+
+.connectbtn {
+    background: #f77062;
+    font-size: 55px;
+    border: none;
+}
+
+.connectbtn:hover {
+    background: #4837ff;
+    transition: all 0.3s ease;
+}
+
+.connectahref {
+    text-decoration: none;
+    color: white;
+}
