@@ -4,13 +4,14 @@
     background-color: #02203c;
     color: #00F97C;
     font-family: 'Poppins', sans-serif;
+    position: relative;
 }
 
 
 
 .header__imageh {
     border-radius: 50%;
-    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 
@@ -27,15 +28,30 @@
     margin-left: 5px;
 }
 
+.header__github-icon:hover {
+    color: white;
+    transition-duration: 5s;
+}
+
 .header__linkedin-icon {
     cursor: pointer;
     margin-left: 55px;
+}
+
+.header__linkedin-icon:hover {
+    color:white;
+    transition-duration: 5s;
 }
 
 .header__twitter-icon {
     cursor: pointer;
     margin-left: 55px;
     height: 55px;
+}
+
+.header__twitter-icon:hover {
+    color: white;
+    transition-duration: 5s;
 }
 
 

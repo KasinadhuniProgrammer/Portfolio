@@ -21,8 +21,9 @@
 }
 
 .slackclonecontainer:hover {
-    border-radius: 50%;
-    transition-duration: 2s;
+    background-color: black;
+    color: white;
+    transition-duration: 0.5s;
 }
 
 .mechlevelscontainer {
@@ -38,8 +39,9 @@
 }
 
 .mechlevelscontainer:hover {
-    border-radius: 50%;
-    transition-duration: 2s;
+    background-color: black;
+    color: white;
+    transition-duration: 0.5s;
 
 }
 

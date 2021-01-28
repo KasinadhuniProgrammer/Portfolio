@@ -48,7 +48,7 @@ function Header() {
         <div className="header">
             <center><Fade top><img className="header__imageh" src={FRESHMANYEARFIRSTIMAGE}/></Fade></center>
             <center><h1 className="header__nameh"><Fade bottom>Satvik Kasinadhuni</Fade></h1></center>
-            <center><h2><AnimatedTypingComponent /></h2></center>
+            <center><h2><AnimatedTypingComponent /></h2></center> 
             <GitHubIcon className="header__github-icon" onClick={() => {openInNewTab("https://github.com/KasinadhuniProgrammer")}}/>
             <LinkedInIcon className="header__linkedin-icon" onClick={() => {openInNewTab("https://www.linkedin.com/in/satvik-kasinadhuni")}}/>
             <TwitterIcon className="header__twitter-icon" onClick={() => {openInNewTab("https://twitter.com/ChubbyIndianBoy")}}/>
