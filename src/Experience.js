@@ -31,8 +31,8 @@ function Experience() {
                 <h6>-------------------------------------------------------------</h6>
                 <h5>I did a one day job shadow at TRUMPF with the</h5>
                 <h5>Production and Manufacturing team. I</h5>
-                <h5>learned about Machining Quality, Laser</h5>
-                <h5>Machine Refurbishmnt, and Bending</h5>
+                <h5>learned about Machining Quality, Lasers,</h5>
+                <h5>Machine Refurbishment, and Bending</h5>
                 <h5>Technology. I was able to job shadow</h5>
                 <h5>many Engineers such as Software,</h5>
                 <h5>Mechanical, Electrical, and</h5>
