@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+.experience {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f2f3f5;
+}
+
+.experience__istartjob {
+    margin-top: 10px;
+    margin-left: 350px;
+}
+
+.experience__istartrole {
+    margin-top: 15px;
+}
+
+.experience__istartjob, .experience__trumpfthing {
+    display: inline-block;
+}
+
+.experience__trumpfthing {
+    margin-left: 215px;
+}
+
+.experience__trumpfrole {
+    margin-top: 15px;
+
+}
+
+@media screen and (max-width: 960px) {
+    .experience__istartjob {
+        margin-top: 10px;
+        margin-left: 5px;
+    }
+    .experience__trumpfthing {
+        margin-top: 10px;
+        margin-left: 5px;
+
+    }
+}

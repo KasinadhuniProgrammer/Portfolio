@@ -7,12 +7,14 @@ import Skills from './Skills';
 import Projects from './Projects';
 import Welcome from './Welcome';
 import Connect from './Connect';
+import Experience from './Experience';
 
 function App() {
   return (
     <div className="app">
       <Header />
       <Welcome />
+      <Experience />
       <Skills />
       <Projects />
       <Connect />

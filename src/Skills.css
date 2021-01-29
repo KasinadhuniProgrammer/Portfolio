@@ -25,10 +25,8 @@
 
     }
     .second__second-ul {
-        margin-left: 55px;
+        margin-left: 25px;
     }
 
-    .first-ul, .second-ul {
-        display: inline-block;
-    }
+   
 }

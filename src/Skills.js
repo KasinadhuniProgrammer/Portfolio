@@ -12,6 +12,8 @@ function Skills() {
                     <li>Java</li>
                     <li>Git</li>
                     <li>Python</li>
+                    <li>Figma</li>
+                    <li>Django</li>
                 </ul>
             </div>
             <div className="second-ul">
@@ -21,6 +23,8 @@ function Skills() {
                     <li>Linux</li>
                     <li>TensorFlow.js</li>
                     <li>Docker</li>
+                    <li>Tkinter</li>
+                    <li>Autodeesk Inventor</li>
                 </ul>
             </div>
         </div>

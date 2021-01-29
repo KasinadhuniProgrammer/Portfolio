@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Andika+New+Basic&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
 .welcome {
     font-family: 'Andika New Basic', sans-serif;
     background-color: #00F97C;
@@ -9,29 +9,115 @@
     cursor: crosshair;
 }
 
+.welcome__firstpara {
+    margin-left: 155px;
+}
 
-.mecodingimg {
-    border-radius: 100%;
-    margin-top: 5px;
+.welcome__secondpara {
+    margin-left: 255px;
+}
+
+.welcome__firstpara, .welcome__secondpara {
+    display: inline-block;
+}
+
+@media screen and (max-width: 960px) {
+    .welcome__firstpara {
+        margin-left: 5px;
+    }
+    .welcome__secondpara {
+        margin-left: 5px;
+    }
+}
+
+.firstpara__paraone {
+    font-family: 'Open Sans Condensed', sans-serif;
 
 }
 
-.mecodingimg:hover {
-    border-radius: 5%;
-    transition-duration: 0.5s;
+.firstpara__secondone {
+    font-family: 'Open Sans Condensed', sans-serif;
+
 }
 
+.firstpara__thirdone {
+    font-family: 'Open Sans Condensed', sans-serif;
 
-.thirdpara__welcome {
+}
+
+.firstpara__fourthone {
+    font-family: 'Open Sans Condensed', sans-serif;
     margin-top: 10px;
 }
 
-.fifthpara__welcome {
+.firstpara__fifthone {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.firstpara__sixthone {
+    font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
+.firstpara__seventhone {
+    font-family: 'Open Sans Condensed', sans-serif;
     margin-top: 10px;
 
 }
 
-.sixthpara__welcome {
+.firstpara__eightone {
+    font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
+.secondpara__firstone {
+    font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
+.secondpara__secondone {
+    font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
+.secondpara__thirdone {
+    font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
+.secondpara__fourthone {
+    font-family: 'Open Sans Condensed', sans-serif;
     margin-top: 10px;
 
+}
+
+.secondpara__fifthone {
+    font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
+.secondpara__sixthone {
+    font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
+.secondpara__seventhone {
+    font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
+.secondpara__eightone {
+    font-family: 'Open Sans Condensed', sans-serif;
+    margin-top: 10px;
+
+}
+
+.secondpara__ninthone {
+    font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
+.ninthone__a {
+    text-decoration: underline;
+    cursor: pointer;
 }
