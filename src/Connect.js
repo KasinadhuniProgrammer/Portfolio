@@ -1,11 +1,12 @@
 import React from 'react';
 import './Connect.css';
+import FRESHMANYEARFIRSTIMAGE from './FRESHMANYEARFIRSTIMAGE.jpg';
 
 function Connect() {
     return (
         <div className="connect">
-            <center><h1 className="connecthy">Click the button below to Email Me</h1></center>
-            <center><button className="connectbtn"><a className="connectahref" href="mailto: skasinad@gmail.com">Email me</a></button></center>
+            <center><h1>Thank you, and best of luck!</h1></center>
+            <center><h3>Website created by <a href="www.satvik.site">Satvik Kasinadhuni</a></h3></center>
         </div>
     );
 }

@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+.skills {
+    font-family: 'Poppins', sans-serif;
+}
+
+.first__first-ul {
+    margin-top: 10px;
+    margin-left: 455px;
+}
+
+.second__second-ul {
+    margin-top: 10px;
+    margin-left: 185px;
+}
+
+
+.first-ul, .second-ul {
+    display: inline-block;
+}
+
+@media screen and (max-width: 960px) {
+    .first__first-ul {
+        margin-left: 25px;
+
+    }
+    .second__second-ul {
+        margin-left: 55px;
+    }
+
+    .first-ul, .second-ul {
+        display: inline-block;
+    }
+}

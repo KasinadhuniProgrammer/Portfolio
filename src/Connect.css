@@ -6,19 +6,12 @@
     color: white;
 }
 
-.connectbtn {
-    background: #f77062;
-    font-size: 35px;
-    border: none;
+.connect__firsttitle > h2 {
+    margin-left: 5px;
 }
 
-.connectbtn:hover {
-    background: #4837ff;
-    transition: all 0.3s ease;
-}
-
-.connectahref {
-    text-decoration: none;
-    color: white;
+.connectyfreshmanyearimg {
+    height: 206px;
+    margin-left: 255px;
 }
 
