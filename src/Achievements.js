@@ -12,7 +12,7 @@ function Achievements() {
                 <h4>Winning Alliance Award in the competition.</h4>
             </div>
             <div className="achievements__presidentialone">
-                <h3 className="presidentialone__title">Presidential Service Award(Presidential Volunteer's Service Award)</h3>
+                <h3 className="presidentialone__title">Presidential Service Award(President's Volunteer Service Award)</h3>
                 <h4>Awarded the Presidential Service Award for doing additional volunteer</h4>
                 <h4>work at iStart Valley for over 100 hours. I will be receiving the gold</h4>
                 <h4>medal for volunteering over 100 hours at the age of 15.</h4>
