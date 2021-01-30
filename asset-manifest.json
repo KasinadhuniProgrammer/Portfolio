@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.853509f8.chunk.css",
+    "main.css": "/Portfolio/static/css/main.e987ca72.chunk.css",
     "main.js": "/Portfolio/static/js/main.493eabf0.chunk.js",
     "main.js.map": "/Portfolio/static/js/main.493eabf0.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.f1f79389.js",
@@ -10,14 +10,14 @@
     "static/js/3.68eefedf.chunk.js": "/Portfolio/static/js/3.68eefedf.chunk.js",
     "static/js/3.68eefedf.chunk.js.map": "/Portfolio/static/js/3.68eefedf.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "static/css/main.853509f8.chunk.css.map": "/Portfolio/static/css/main.853509f8.chunk.css.map",
+    "static/css/main.e987ca72.chunk.css.map": "/Portfolio/static/css/main.e987ca72.chunk.css.map",
     "static/js/2.1cdc9085.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.1cdc9085.chunk.js.LICENSE.txt",
     "static/media/FRESHMANYEARFIRSTIMAGE.18b6579e.jpg": "/Portfolio/static/media/FRESHMANYEARFIRSTIMAGE.18b6579e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f1f79389.js",
     "static/js/2.1cdc9085.chunk.js",
-    "static/css/main.853509f8.chunk.css",
+    "static/css/main.e987ca72.chunk.css",
     "static/js/main.493eabf0.chunk.js"
   ]
 }
